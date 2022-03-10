@@ -32,6 +32,7 @@
     "redux": "^4.1.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2",
     "webfontloader": "^1.6.28"
   },
